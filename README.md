@@ -117,9 +117,29 @@ The firmware for the Titan blinker was designed using Arduino IDE.
 Features:
 
 • Press button 1 to toggle LED 1
+
 • Press button 2 after button 1 within 2 second LED 2 on
+
 • Press button 3 for 2 seconds to on the LED 3
+
 • Double press button 3 to turnb off LED 3
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+## Contributing
+
+Contributions,suggestions, and feedback are welcome
+
+If you'd like to improve Titan blinker
+1. Fork or clone the repository
+
+https://github.com/avadsariya0-coder/TITAN-BLINKER
+
+2. Create your Feature branch
+
+3. Commit your changes
+
+4. Open a pull request.
 
 _________________________________________________________________________________________________________________________________________________________________________
 
