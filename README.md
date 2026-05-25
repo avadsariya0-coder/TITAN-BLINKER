@@ -94,6 +94,7 @@ ________________________________________________________________________________
 ## Schematic
 
 <img width="808" height="476" alt="SCHEMATIC" src="https://github.com/user-attachments/assets/45e64e59-95ef-4c14-ad1d-737e68ab0fab" />
+<img width="1123" height="794" alt="titan c" src="https://github.com/user-attachments/assets/e30e64a1-ca12-4ed3-a815-9ed100df6bda" />
 
 _________________________________________________________________________________________________________________________________________________________________________
 
@@ -129,11 +130,11 @@ Features:
 
 • Press button 3 for 2 seconds to on the LED 3
 
-• Double press button 3 to turnb off LED 3
+• Double press button 3 to turn off LED 3
 
 _________________________________________________________________________________________________________________________________________________________________________
 
-## Assembling
+## Assembly guide
 
 1. Mount the pcb inside the enclosure using the screws.
 2. Insert cherry mx switches to the PCB.
@@ -167,8 +168,19 @@ ________________________________________________________________________________
 
 <img width="771" height="485" alt="image" src="https://github.com/user-attachments/assets/c457d626-6f59-454f-a5ff-33421f7ff6d0" />
 
-7. Test the firmware and enjoy the Titan Blinker.
-8. Close the enclosure using lid and the screw. 
+7. Test the firmware by following the steps:
+
+   i. Press button1 to toggle led1 .
+
+   ii. Press button2 after pressing button 1 within 2 sec.
+
+   iii. Press button3 for 2 second and Led3 will turn on.
+
+   iv. Press button 3 twice to turn of Led3.
+
+   if these works properly u are done with your firmware.
+   
+9. Close the enclosure using lid and the screw. 
 
 _________________________________________________________________________________________________________________________________________________________________________
 ## Contributing
