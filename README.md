@@ -168,7 +168,7 @@ ________________________________________________________________________________
 
 <img width="771" height="485" alt="image" src="https://github.com/user-attachments/assets/c457d626-6f59-454f-a5ff-33421f7ff6d0" />
 
-7. Test the firmware by following the steps:
+7. Testing the firmware:
 
    i. Press button1 to toggle led1 .
 
@@ -180,7 +180,7 @@ ________________________________________________________________________________
 
    if these works properly u are done with your firmware.
    
-9. Close the enclosure using lid and the screw. 
+8. Close the enclosure using lid and the screw. 
 
 _________________________________________________________________________________________________________________________________________________________________________
 ## Contributing
