@@ -138,13 +138,21 @@ ________________________________________________________________________________
 1. Mount the pcb inside the enclosure using the screws.
 2. Insert cherry mx switches to the PCB.
 3. Add DSA keycaps to it.
+   
 <img width="794" height="618" alt="image" src="https://github.com/user-attachments/assets/b816d2da-dbe8-4417-a831-e66566c0117c" />
+
 4. attach the XIAO RP2040 to the PCB.
+
 <img width="757" height="627" alt="image" src="https://github.com/user-attachments/assets/74048f15-99cd-4e3b-b4c4-9e49e5a89550" />
+
 5. Add resistors and LEDs througn the hole.
+
 <img width="746" height="625" alt="image" src="https://github.com/user-attachments/assets/8160fd12-4afc-46f8-8394-c206a1182d42" />
+
 6. Connect the XIAO RP2040 with the usb c connector and upload the firmware using Arduino.
+
 <img width="771" height="485" alt="image" src="https://github.com/user-attachments/assets/c457d626-6f59-454f-a5ff-33421f7ff6d0" />
+
 7. Test the firmware and enjoy the Titan Blinker.
 8. Close the enclosure using lid and the screw. 
 
