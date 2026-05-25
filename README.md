@@ -152,7 +152,7 @@ ________________________________________________________________________________
 6. Connect the XIAO RP2040 with the usb c connector and upload the firmware using Arduino.
    Steps to be followed:
 
-   1.Install Aruino IDE.
+   i.Install Aruino IDE.
    
 
    2. Install RP2040 board package.
