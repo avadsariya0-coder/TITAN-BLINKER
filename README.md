@@ -53,6 +53,22 @@ ________________________________________________________________________________
 ## Hardware stack
 
 <img width="672" height="286" alt="Screenshot 2026-05-25 012250" src="https://github.com/user-attachments/assets/7ba2bcb4-7b4e-47b4-a3d7-1248cda49725" />
+Name of the components,Quantity required,Price per unit,Web link
+XIAO RP2040,1,$3.9,http://seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
+Resistors,3, $0.0102,https://elecsynergy.in/products/220-ohm-1-4w-resistors?_pos=4&_psq=RESIST&_ss=e&_v=1.0
+Red LED,1,$0.012,https://robu.in/product/5mm-red-dip-led-pack-of-50/
+Blue LED,1,$0.014,https://evelta.com/5-mm-blue-led/?sku=083-BE-LED-5MM&utm_source=google&utm_campaign=20308067004&utm_medium=cpc&utm_content=&utm_term=&gad_source=1&gad_campaignid=20317564702&gbraid=0AAAAADwtsXlg-wi4WrXbEOosANj5E3E84&gclid=Cj0KCQjw_b_QBhCSARIsAP6hR4dgr1oeTDlO26wUhy-fnq29BEz5c6a25t3n6u9gnkhNe5ZzjE-ingwaAqvpEALw_wcB
+Green LED          ,1,$0.011,https://evelta.com/3-mm-green-led/?sku=083-GN-LED-3MM&utm_source=google&utm_campaign=20308067004&utm_medium=cpc&utm_content=&utm_term=&gad_source=1&gad_campaignid=20317564702&gbraid=0AAAAADwtsXlg-wi4WrXbEOosANj5E3E84&gclid=Cj0KCQjw_b_QBhCSARIsAP6hR4em0d4BJeAI2yw_31W84gBN_rRw8wAqEne4Ej4d-SFHkdOub2WjYZMaAkTSEALw_wcB
+Cherry MX Switch,3,$0.37,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/
+DSA Cherry Keycaps,3,$0.21,https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/?srsltid=AfmBOor3KvafPSsj5Srdeqj5sR2wVjxOwla9YyFc_5wRytB5Epxs6Di4-uw
+PCB,1,$2.48,https://cart.jlcpcb.com/shopcart/cart/
+Enclosure,1,$21.58,https://jlc3dp.com/shopcart/cart?source=3D
+M2.5 screws8,8,$0.0062,https://omrook.com/combi-screw-m2-5-x-8mm-screw-diameter-2-5mm-length-8mm/?gad_source=1&gad_campaignid=23600398228&gbraid=0AAAAAoXytl_ggJxXgQ1oqb9PGUu19i7bO&gclid=CjwKCAjw5s_QBhAdEiwADD_gBsCVmWK0TR6BVL1CCxKcOeCBkwOwR98cWOifOBwym6vaMkoyXsZy3hoC6RcQAvD_BwE
+
+_________________________________________________________________________________________________________________________________________________________________________
+## Bill of Material
+
+[Bill of material titan blinker.csv](https://github.com/user-attachments/files/28211730/Bill.of.material.titan.blinker.csv)
 
 _________________________________________________________________________________________________________________________________________________________________________
 
