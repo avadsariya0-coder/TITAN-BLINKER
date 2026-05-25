@@ -150,15 +150,26 @@ ________________________________________________________________________________
 <img width="746" height="625" alt="image" src="https://github.com/user-attachments/assets/8160fd12-4afc-46f8-8394-c206a1182d42" />
 
 6. Connect the XIAO RP2040 with the usb c connector and upload the firmware using Arduino.
+   Steps to be followed:
+
+   1.Install Aruino IDE.
+   
+
+   2. Install RP2040 board package.
+
+   3. Connect XIAO RP2040 using USB-C
+
+   4. Open the firmware.ino file.
+
+   5. Select the correct Communication port(COM)
+
+   6. Upload the firmware
 
 <img width="771" height="485" alt="image" src="https://github.com/user-attachments/assets/c457d626-6f59-454f-a5ff-33421f7ff6d0" />
 
 7. Test the firmware and enjoy the Titan Blinker.
 8. Close the enclosure using lid and the screw. 
 
-   
-
-   
 _________________________________________________________________________________________________________________________________________________________________________
 ## Contributing
 
