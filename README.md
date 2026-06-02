@@ -67,7 +67,8 @@ ________________________________________________________________________________
 
 ## Zine
 
-<img width="1410" height="2000" alt="TITAN B LIMKER PNG" src="https://github.com/user-attachments/assets/65aa9685-d0ae-4fba-819c-c69dd22d47cd" />
+<img width="1410" height="2000" alt="TITAN BLINKER ZINE" src="https://github.com/user-attachments/assets/f73959e7-3097-44f3-9fc0-c1032e0a3d36" />
+
 
 _________________________________________________________________________________________________________________________________________________________________________
 
