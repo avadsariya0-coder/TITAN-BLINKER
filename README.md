@@ -60,7 +60,9 @@ ________________________________________________________________________________
 [Bill of material titan blinker.csv](https://github.com/user-attachments/files/28520629/Bill.of.material.titan.blinker.csv)
 
 
-<img width="319" height="263" alt="image" src="https://github.com/user-attachments/assets/8c987fe3-d388-4f5a-86c4-a80b54fa9fcd" />
+[Bill of material titan blinker.csv](https://github.com/user-attachments/files/28665807/Bill.of.material.titan.blinker.csv)
+<img width="318" height="283" alt="image" src="https://github.com/user-attachments/assets/04ae3e1e-c5b0-4f71-a897-70d48615d04a" />
+
 
 
 _________________________________________________________________________________________________________________________________________________________________________
